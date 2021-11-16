@@ -1,0 +1,83 @@
+html * {   
+      /* INSERIR COR EM TODOS OS ELEMENTOS */     
+ color: yellow;
+     /* RESET CSS */     
+     margin: 10px;  
+    padding: 0px; 
+} 
+
+span {     
+    background-color: white;
+}  #titulo
+
+{    
+     /* COR DA FONTE */     
+    color: red;
+     /* ALINHAMENTO CENTRALIZADO DO TEXTO */     
+     text-align: center;     
+     /* FAMÍLIA TIPOGRÁFICA */     
+    font-family: 'Courier New', Courier, monospace;   
+     /* TAMANHO DA FONTE */     
+     font-size: 40px;     
+     /* ESTILO DA FONTE */     
+     font-style: oblique;     
+     /* ESPESSURA DA FONTE 
+     
+#resumo {     
+    /* TAMANHO */     
+    padding: 20px;     
+    /* ALINHAMENTO DO TEXTO */     
+    text-align: center;     
+    /* FAMÍLIA TIPOGRÁFICA */     
+    font-family: Verdana, Geneva, Tahoma, sans-serif;     
+    /* TAMANHO DA FONTE */    
+    font-size: 35px;    
+    /* ESTILO DA FONTE */    
+    font-style: oblique; 
+} 
+ul {     
+    /* ALINHAMENTO */     
+    text-align: center;   
+    /* FAMILIA TIPOGRÁFICA */     
+   font-family: Georgia, 'Times New Roman', Times, serif;
+    /* TAMANHO DA FONTE */     
+    font-size: 16px;     
+    /* ESTILO DA FONTE */     
+    font-style: normal;     
+    /* MARGEM */     
+    margin:0px 80px;
+}
+#corpo {     
+    background-image: url(/imgs/background.jpg);     
+    background-repeat: no-repeat;     
+    background-size: cover;     
+    background-attachment: fixed; 
+}  
+#principal {     
+    text-align: center; 
+} 
+.subtitulo {         
+    /* COR DA FONTE */         
+   color: red; 
+    /* ALINHAMENTO CENTRALIZADO DO TEXTO */         
+    text-align: center;         
+    /* FAMÍLIA TIPOGRÁFICA */         
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* TAMANHO DA FONTE */         
+    font-size: 30px;         
+    /* ESTILO DA FONTE */         
+    font-style: normal;       
+    /* ESPESSURA DA FONTE */         
+    font-weight: 10px;         
+    /* ESPAÇAMENTO */         
+    padding: 15px; 
+}
+#rodape {     
+    text-align: center;   
+     padding: 50px;
+     } 
+.icones {     
+    margin: 20px;     
+    width: 50px;     
+    height: 50px; 
+}
