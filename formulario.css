@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Mono&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 100;
+  font-family: 'Arial', sans-serif;
+}
+
+h1 {
+  margin: 20px;
+  color: rgb(55, 43, 226);
+  text-align: center;
+}
+
+fieldset {
+  margin: 30px;
+  border: 4px rgb(123, 255, 0) solid;
+  border-style: 20px;
+  padding: 20px;
+}
+
+legend {
+  color: rgb(43, 61, 226);
+  font-size: 20px;
+  padding: 10px;
+}
+
+div {
+  margin: 0px;
+}
+
+p {
+  margin-bottom: 10px;
+}
+
+#nome {
+  height: 30px;
+  width: 600px;
+  border-top-color: 20px;
+}
+
+button {
+  padding: 15px;
+  margin: 10px;
+  background-color: rgb(43, 153, 226);
+  color: white;
+  font-size: 20px;
+  border: 0;
+  border-radius: 20px;
+}
+
+.text-center {
+  text-align: center;
+  
+}
